@@ -2,7 +2,7 @@
 <img width="1063" height="432" alt="image" src="https://github.com/user-attachments/assets/ab5fd2a6-6a57-4e88-af5c-d78cfbcaae5d" />
 
 
-RavX is a simple and powerful directory scanner that checks which paths on a target website return **HTTP Status 200 (OK)**.  
+DirXploit is a simple and powerful directory scanner that checks which paths on a target website return **HTTP Status 200 (OK)**.  
 It is useful for **bug bounty hunters**, **CTF players**, and **pentesters** who want to find accessible directories fast.
 
 This tool prints only the **working directories** and automatically saves them into a `results.txt` file.
@@ -22,7 +22,7 @@ This tool prints only the **working directories** and automatically saves them i
 ## How to Use
         git clone https://github.com/gourav001-s/RavX.git
         ls 
-        cd RavX
+        cd DirXploit
         pip install -r requirement.txt
         python3 RavX.py
         

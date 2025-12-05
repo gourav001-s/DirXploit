@@ -1,4 +1,4 @@
-# 💀 RavX | Directory Status Scanner
+# 💀 DirXploit | Directory Status Scanner
 <img width="1063" height="432" alt="image" src="https://github.com/user-attachments/assets/ab5fd2a6-6a57-4e88-af5c-d78cfbcaae5d" />
 
 
